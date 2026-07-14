@@ -21,7 +21,7 @@ My background is in immersive filmmaking and digital media, and I'm passionate a
 
 ## 🚀 Now Building
 
-### 🎪 Cirque Invisible VJ
+### 🎪 Cirque Invisible
 A real-time audiovisual performance system built in Unity using Kinect Azure depth sensing.
 
 Designed as a modular visual instrument for live performance, projection mapping and interactive installations.
